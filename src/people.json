@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "comment": "I had a very good time in your hotel. The staff was very friendly and the food was delicious. I will definitely come back!",
+        "img": "/download.webp"
+
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "comment": "I had a very good time in your hotel. The staff was very friendly and the food was delicious. I will definitely come back!",
+        "img": "/download.jpeg"
+
+    },
+
+    {
+        "id": 3,
+        "name": "Mae Cole",
+        "comment": "I had a very good time in your hotel. The staff was very friendly and the food was delicious. I will definitely come back!",
+        "img":"/Emmanuel Uzoma.jpg"
+
+    }
+]
